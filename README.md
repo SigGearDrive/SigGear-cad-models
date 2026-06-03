@@ -1,15 +1,54 @@
-<img width="1254" height="1254" alt="2" src="https://github.com/user-attachments/assets/01312ae6-c80e-4b1a-9348-bddd9c5bdfde" />
-<img width="1254" height="1254" alt="5" src="https://github.com/user-attachments/assets/a27dc9a5-000b-47b0-ab9e-c97eeceb9bfd" />
-<img width="1000" height="1000" alt="主图3" src="https://github.com/user-attachments/assets/69425fcd-1174-40bc-bae6-cd328300f8fe" />
-<img width="1000" height="1000" alt="主图2" src="https://github.com/user-attachments/assets/b037541d-9052-46d5-b5f3-3a6fbd511419" />
-<img width="1000" height="1000" alt="主图202605223" src="https://github.com/user-attachments/assets/04d915c8-b88c-4a6a-a607-4a3e7fbbebbd" />
-<img width="1000" height="1000" alt="主图2" src="https://github.com/user-attachments/assets/a94de590-9f15-4298-85b4-33e8ec8de907" />
-<img width="1000" height="1000" alt="主图2" src="https://github.com/user-attachments/assets/eaf64f4d-77ef-4452-9db4-e90a0e257542" />
-<img width="1000" height="1000" alt="主图3" src="https://github.com/user-attachments/assets/55b62344-2a0c-40ef-af67-bba538cfac4f" />
-<img width="1000" height="1000" alt="主图202605223" src="https://github.com/user-attachments/assets/0716c7cb-f058-4186-a75a-6da34d7fa982" />
-<img width="1000" height="1000" alt="主图202605222" src="https://github.com/user-attachments/assets/7381728f-ec77-46c4-b598-84ff858d13e2" />
-<img width="800" height="800" alt="主图5" src="https://github.com/user-attachments/assets/7648e566-a7f4-47d9-8a08-41b853e5a779" />
-<img width="800" height="800" alt="主图2" src="https://github.com/user-attachments/assets/b3163ff3-b742-4e61-9aa0-935711bcfb6e" />
-<img width="800" height="800" alt="主图1" src="https://github.com/user-attachments/assets/67b95c53-95f3-4b6f-9e70-3d46df483cfe" />
-<img width="1000" height="1000" alt="主图3" src="https://github.com/user-attachments/assets/9e2c5996-dc5c-4b47-b309-68db499315ca" />
-<img width="1000" height="1000" alt="主图2" src="https://github.com/user-attachments/assets/03df7985-e04e-414d-8e4c-3a495b4f536f" />
+# SigGear CAD Models
+
+This repository provides mechanical drawings, CAD references and product images for SigGear robotic joint modules and precision transmission products.
+
+## Current Products
+
+| Product | Type | Status |
+|---|---|---|
+| SG6010C | Planetary robotic joint module | Drawings available |
+| SG8021 | Planetary robotic joint module | Drawings available |
+| CPM80-25 | Cycloidal robotic joint module | Drawings available |
+| CPM100-25 | Cycloidal robotic joint module | Drawings available |
+
+## Repository Structure
+
+```text
+SigGear-cad-models/
+├── SG6010C/
+│   ├── images/
+│   ├── drawings/
+│   └── README.md
+├── SG8021/
+│   ├── images/
+│   ├── drawings/
+│   └── README.md
+├── CPM80-25/
+│   ├── images/
+│   ├── drawings/
+│   └── README.md
+└── CPM100-25/
+    ├── images/
+    ├── drawings/
+    └── README.md
+Coming Soon
+STEP files
+STP files
+URDF models
+Xacro models
+Gazebo meshes
+Contact
+
+Website: https://www.siggear.com
+Email: wwang109@163.com
+
+---
+
+# 具体上传步骤
+
+## 第一步：创建 GitHub Organization
+
+名字：
+
+```text
+SigGearDrive
