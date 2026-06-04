@@ -1,3 +1,74 @@
+# CPM80-25 CAD Resources
+
+## Available Files
+
+### Images
+
+* Product Photos
+* Product Renders
+* Application Images
+
+### Drawings
+
+* Dimension Drawings
+* Installation Drawings
+* Mechanical Interface Drawings
+
+## Product Overview
+
+CPM80-25 is a compact cycloidal robotic joint module designed for robotic systems requiring low backlash and high torque density.
+
+The module integrates:
+
+* Cycloidal Reducer
+* BLDC Motor
+* Encoder Interface
+* Driver Integration Option
+
+## Key Parameters
+
+| Parameter    | Value   |
+| ------------ | ------- |
+| Diameter     | 80 mm   |
+| Thickness    | 29.7 mm |
+| Rated Torque | 10 Nm   |
+| Peak Torque  | 50 Nm   |
+| Rated Speed  | 120 rpm |
+| Voltage      | 24-48V  |
+
+## Applications
+
+* Exoskeleton Systems
+* Humanoid Robots
+* Robot Arms
+* Service Robots
+* Educational Robotics
+
+## Available Resources
+
+Current:
+
+* Product Images
+* Mechanical Drawings
+* Dimension Drawings
+
+Future:
+
+* STEP Models
+* STP Models
+* URDF Models
+* Gazebo Models
+
+## Contact
+
+Website:
+
+https://www.siggear.com
+
+Email:
+
+[wwang109@163.com](mailto:wwang109@163.com)
+
 <img width="3072" height="3459" alt="1" src="https://github.com/user-attachments/assets/7d6e00f4-309c-4e43-aedd-c041cc2e0e6a" />
 <img width="3072" height="3459" alt="2" src="https://github.com/user-attachments/assets/2627b758-6d35-4775-aeeb-5f990d073aec" />
 <img width="3072" height="3459" alt="6" src="https://github.com/user-attachments/assets/ac575293-652d-46b0-ba36-52438071d0a0" />
