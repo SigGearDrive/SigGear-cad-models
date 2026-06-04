@@ -1,3 +1,37 @@
+# SG6010C CAD Resources
+
+## Available Files
+
+### Images
+
+* Product Photos
+* Render Images
+* Application Images
+
+### Drawings
+
+* Dimension Drawings
+* Mounting Interface Drawings
+* Mechanical Layout Drawings
+
+## Product Overview
+
+SG6010C is a compact planetary robotic joint module designed for humanoid robots, exoskeleton systems and lightweight robotic manipulators.
+
+## Key Parameters
+
+| Parameter       | Value    |
+| --------------- | -------- |
+| Diameter        | 80 mm    |
+| Thickness       | 34.07 mm |
+| Reduction Ratio | 9.67     |
+| Rated Torque    | 6 Nm     |
+| Peak Torque     | 18 Nm    |
+
+## Contact
+
+https://www.siggear.com
+
 <img width="1000" height="1000" alt="drawings 1" src="https://github.com/user-attachments/assets/5059dd26-70be-48f8-afdc-7c2d258000e2" />
 <img width="1000" height="1000" alt="7" src="https://github.com/user-attachments/assets/3602eac5-b76e-4e3b-9e53-bdd285ecb25d" />
 
