@@ -1,5 +1,4 @@
 # SigGear CAD Models
-# SigGear CAD Models
 
 CAD models and mechanical reference resources for SigGear compact precision drive solutions, including robot joint modules, compact cycloidal reducers, 6-42mm planetary gear reducers, micro gear motors, and robotic actuator systems.
 
