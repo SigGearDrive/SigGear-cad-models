@@ -14,13 +14,14 @@ https://siggeardrive.github.io/SigGear-product-docs/products/cycloidal-joint-mod
 CPM-100-25/
 ├── README.md
 ├── STEP/
-│   └── Place STEP files here
+│   └── Released STEP files
 ├── Preview/
 │   ├── preview_iso.png
 │   ├── preview_side.png
 │   └── preview_mounting.png
 └── Version/
-    └── CAD release notes
+    ├── CHANGELOG.md
+    └── release-info.yml
 ```
 
 ## Available Files
@@ -49,13 +50,26 @@ Before final mechanical design release, confirm:
 - Tolerance requirements
 - Final revision status
 
+## CAD Release Checklist
+
+Before publishing a STEP release:
+
+- [ ] Confirm product model and configuration
+- [ ] Confirm CAD revision number
+- [ ] Confirm unit system (mm)
+- [ ] Check STEP file opens correctly
+- [ ] Add preview images
+- [ ] Update `Version/CHANGELOG.md`
+- [ ] Update `Version/release-info.yml`
+- [ ] Verify public information contains no confidential customer data
+
 ## Version Information
 
 | Item | Value |
 | --- | --- |
 | Product | CPM-100-25 |
-| CAD revision | To be released |
-| Release date | To be released |
+| CAD revision | See Version/release-info.yml |
+| Release date | See Version/release-info.yml |
 | Units | mm |
 
 ## Request Additional Files
