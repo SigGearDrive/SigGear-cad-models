@@ -1,0 +1,17 @@
+product: CPM-100-25
+cad_status: template_only
+cad_revision: null
+release_date: null
+units: mm
+
+files:
+  step:
+    status: not_released
+    formats: []
+  preview:
+    status: not_released
+    files: []
+
+notes:
+  - Public CAD files require engineering review before final mechanical design approval.
+  - Update this file whenever a new CAD revision is published.
