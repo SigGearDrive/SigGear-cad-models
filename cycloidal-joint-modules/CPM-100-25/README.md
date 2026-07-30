@@ -4,80 +4,47 @@
 
 CPM-100-25 integrated cycloidal joint module.
 
-For product specifications, application information and controlled technical data, refer to the official product documentation:
+Official product documentation:
 
 https://siggeardrive.github.io/SigGear-product-docs/products/cycloidal-joint-modules/cpm100-25/
 
-## CAD Directory Structure
+## Directory Structure
 
 ```text
 CPM-100-25/
 ├── README.md
-├── STEP/
-│   └── Released STEP files
-├── Preview/
-│   ├── preview_iso.png
-│   ├── preview_side.png
-│   └── preview_mounting.png
+├── STEP/README.md
+├── Preview/README.md
 └── Version/
     ├── CHANGELOG.md
     └── release-info.yml
 ```
 
-## Available Files
+## Usage
 
-| File type | Description |
-| --- | --- |
-| STEP | 3D mechanical model for integration and fit checking |
-| Preview images | Visual reference before CAD download |
-| Release notes | CAD revision information |
+Public CAD files are for mechanical layout, envelope checks, prototype integration and early design review. Confirm the final configuration, mounting interfaces, shaft and flange dimensions, cable arrangement, tolerances and revision before production design.
 
-## CAD Usage Notes
+## Naming
 
-Public CAD files are intended for:
+```text
+SigGear_CPM-100-25_<assembly-or-part>_v<revision>.step
+```
 
-- Mechanical layout
-- Envelope checking
-- Prototype integration
-- Early-stage design review
+## Release Checklist
 
-Before final mechanical design release, confirm:
+- Confirm model, configuration and millimetre units.
+- Open and inspect the exported STEP file.
+- Remove confidential customer data and restricted geometry.
+- Add preview images.
+- Update `Version/CHANGELOG.md` and `Version/release-info.yml`.
+- Confirm filenames and version metadata agree.
 
-- Product configuration
-- Mounting interface
-- Shaft and flange dimensions
-- Cable and connector arrangement
-- Tolerance requirements
-- Final revision status
+## Current Status
 
-## CAD Release Checklist
+No public CAD file is released until `release-info.yml` shows `cad_status: released` and the referenced STEP file is present.
 
-Before publishing a STEP release:
-
-- [ ] Confirm product model and configuration
-- [ ] Confirm CAD revision number
-- [ ] Confirm unit system (mm)
-- [ ] Check STEP file opens correctly
-- [ ] Add preview images
-- [ ] Update `Version/CHANGELOG.md`
-- [ ] Update `Version/release-info.yml`
-- [ ] Verify public information contains no confidential customer data
-
-## Version Information
-
-| Item | Value |
-| --- | --- |
-| Product | CPM-100-25 |
-| CAD revision | See Version/release-info.yml |
-| Release date | See Version/release-info.yml |
-| Units | mm |
-
-## Request Additional Files
-
-For detailed drawings, missing CAD formats, customized interfaces, samples or quotation support:
+Private CAD, sample and quotation requests:
 
 https://siggeardrive.github.io/SigGear-product-docs/request-cad-sample-quote/
 
-Email:
-
-wangwanrong@siggear.com
+Email: wangwanrong@siggear.com

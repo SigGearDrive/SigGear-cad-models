@@ -1,17 +1,17 @@
-# CPM-78-39 CAD Resources
+# CPM-80-25 CAD Resources
 
 ## Product
 
-CPM-78-39 integrated cycloidal joint module.
+CPM-80-25 integrated cycloidal joint module.
 
 Official product documentation:
 
-https://siggeardrive.github.io/SigGear-product-docs/products/cycloidal-joint-modules/cpm78-39/
+https://siggeardrive.github.io/SigGear-product-docs/products/cycloidal-joint-modules/cpm80-25/
 
 ## Directory Structure
 
 ```text
-CPM-78-39/
+CPM-80-25/
 ├── README.md
 ├── STEP/README.md
 ├── Preview/README.md
@@ -27,7 +27,7 @@ Public CAD files are for mechanical layout, envelope checks, prototype integrati
 ## Naming
 
 ```text
-SigGear_CPM-78-39_<assembly-or-part>_v<revision>.step
+SigGear_CPM-80-25_<assembly-or-part>_v<revision>.step
 ```
 
 ## Release Checklist
