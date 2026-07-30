@@ -9,9 +9,26 @@ Official mechanical-integration resources for SigGear precision reducers, gear m
 - [SigGear product documentation](https://siggeardrive.github.io/SigGear-product-docs/)
 - [Robot joint actuator products](https://siggeardrive.github.io/SigGear-product-docs/products/robot-joint-actuators/)
 - [Cycloidal joint modules](https://siggeardrive.github.io/SigGear-product-docs/products/cycloidal-joint-modules/)
-- [Planetary gearboxes](https://siggeardrive.github.io/SigGear-product-docs/products/planetary-gearboxes/)
 - [Robot joint actuator selection guide](https://siggeardrive.github.io/SigGear-product-docs/selection-guides/robot-joint-actuator-selection-guide/)
 - [Request CAD, sample, or quotation](https://siggeardrive.github.io/SigGear-product-docs/request-cad-sample-quote/)
+
+## CAD Product Frameworks
+
+The following product directories use the standardized `STEP`, `Preview`, and `Version` structure. A directory marked `template_only` does not contain a released public CAD model yet.
+
+### Cycloidal Joint Modules
+
+- [CPM-78-39](cycloidal-joint-modules/CPM-78-39/)
+- [CPM-80-25](cycloidal-joint-modules/CPM-80-25/)
+- [CPM-100-25](cycloidal-joint-modules/CPM-100-25/)
+
+### Robot Joint Actuators
+
+- [SG-6010C](robot-joint-actuators/SG-6010C/)
+- [SG-6010D](robot-joint-actuators/SG-6010D/)
+- [SG-8021](robot-joint-actuators/SG-8021/)
+
+Each product directory contains release-status metadata. Check `Version/release-info.yml` before assuming a STEP file or preview image is available.
 
 ## Application Scenarios
 
