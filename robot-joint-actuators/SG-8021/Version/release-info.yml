@@ -1,0 +1,17 @@
+product: "SG-8021"
+product_family: "robot-joint-actuators"
+cad_status: "template_only"
+cad_revision: null
+release_date: null
+units: "mm"
+files:
+  step:
+    status: "not_released"
+    formats: []
+    files: []
+  preview:
+    status: "not_released"
+    files: []
+notes:
+  - "Public CAD files require engineering review before final mechanical design approval."
+  - "Update this file whenever a CAD revision is published."
