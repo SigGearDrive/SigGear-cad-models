@@ -1,8 +1,8 @@
-# SigGear CAD Models
+# SigGear STEP Models & Mechanical Resources
 
 Official mechanical-integration resources for SigGear public reference products and custom precision transmission development.
 
-SigGear's public CAD is **not the full scope of its engineering work**. Many customer-specific transmissions, interfaces and production programs remain confidential. A project can start from an existing motor, customer drawing, failed gearbox, robot-joint concept or future volume-production requirement.
+SigGear's public STEP files are **not the full scope of its engineering work**. Many customer-specific transmissions, interfaces and production programs remain confidential. A project can start from an existing motor, customer drawing, failed gearbox, robot-joint concept or future volume-production requirement.
 
 [Start a Custom Transmission Review](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/start-with-your-problem/) · [Custom Manufacturing & Volume Production](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/custom-transmission-manufacturing/)
 
@@ -12,11 +12,11 @@ SigGear's public CAD is **not the full scope of its engineering work**. Many cus
 - [Robot joint actuator products](https://siggeardrive.github.io/SigGear-product-docs/products/robot-joint-actuators/)
 - [Cycloidal joint modules](https://siggeardrive.github.io/SigGear-product-docs/products/cycloidal-joint-modules/)
 - [Robot joint actuator selection guide](https://siggeardrive.github.io/SigGear-product-docs/selection-guides/robot-joint-actuator-selection-guide/)
-- [Request CAD, sample, or quotation](https://siggeardrive.github.io/SigGear-product-docs/request-cad-sample-quote/)
+- [Request STEP file, sample, or engineering review](https://siggeardrive.github.io/SigGear-product-docs/request-cad-sample-quote/)
 
-## CAD Product Frameworks
+## STEP Product Frameworks
 
-The following product directories use the standardized `STEP`, `Preview`, and `Version` structure. A directory marked `template_only` does not contain a released public CAD model yet.
+The following product directories use the standardized `STEP`, `Preview`, and `Version` structure. A directory marked `template_only` does not contain a released public STEP model yet.
 
 ### Cycloidal Joint Modules
 
@@ -34,7 +34,7 @@ Each product directory contains release-status metadata. Check `Version/release-
 
 ## Application Scenarios
 
-These CAD resources are intended for mechanical layout, fit checks, prototype design, and supplier evaluation in applications such as:
+These STEP resources are intended for mechanical layout, fit checks, prototype design, and supplier evaluation in applications such as:
 
 - Humanoid robot hip, knee, ankle, shoulder, elbow, and wrist joints
 - Quadruped robot leg actuators
@@ -49,7 +49,7 @@ These CAD resources are intended for mechanical layout, fit checks, prototype de
 
 Depending on the product and release status, this repository may include:
 
-- STEP and other common 3D CAD formats
+- STEP files for released public models
 - Outline and mounting-interface models
 - Reducer and actuator envelope references
 - Integration examples for robot joints and compact drive systems
@@ -58,11 +58,11 @@ Public file availability varies by model and configuration. Detailed production 
 
 ## Engineering Notes
 
-Public CAD files are provided for preliminary integration and reference. Final dimensions, tolerances, shaft and flange interfaces, cable exits, fasteners, bearings, motor configuration, encoder arrangement, and controller layout may vary by model or customer-specific configuration.
+Public STEP files are provided for preliminary integration and reference. Final dimensions, tolerances, shaft and flange interfaces, cable exits, fasteners, bearings, motor configuration, encoder arrangement, and controller layout may vary by model or customer-specific configuration.
 
 Before freezing a mechanical design, confirm the exact product model, reduction ratio, rated and peak torque, backlash target, mounting orientation, duty cycle, environmental conditions, and required interface dimensions with SigGear.
 
-## Request a Missing or Customized CAD Model
+## Request a Missing or Customized STEP Model
 
 Please provide:
 
@@ -73,7 +73,7 @@ Please provide:
 - Maximum diameter, length, and weight
 - Shaft, flange, bolt-circle, and mounting requirements
 - Motor, encoder, driver, connector, and cable-exit requirements
-- Preferred CAD format
+- Required STEP model / configuration
 - Prototype quantity and estimated annual quantity
 
 [Open an Engineering Request](https://github.com/SigGearDrive/SigGear-cad-models/issues/new/choose)
