@@ -1,8 +1,10 @@
-Got a specific torque, backlash, mounting-interface, or CAD requirement? [Open an engineering request](https://github.com/SigGearDrive/SigGear-cad-models/issues/new/choose) or contact [wangwanrong@siggear.com](mailto:wangwanrong@siggear.com) – our engineers will reply within 24 hours.
-
 # SigGear CAD Models
 
-Official mechanical-integration resources for SigGear precision reducers, gear motors, and integrated robot joint actuators.
+Official mechanical-integration resources for SigGear public reference products and custom precision transmission development.
+
+SigGear's public CAD is **not the full scope of its engineering work**. Many customer-specific transmissions, interfaces and production programs remain confidential. A project can start from an existing motor, customer drawing, failed gearbox, robot-joint concept or future volume-production requirement.
+
+[Start a Custom Transmission Review](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/start-with-your-problem/) · [Custom Manufacturing & Volume Production](https://siggeardrive.github.io/SigGear-product-docs/custom-engineering/custom-transmission-manufacturing/)
 
 ## Start Here
 
