@@ -76,7 +76,11 @@ Please provide:
 - Required STEP model / configuration
 - Prototype quantity and estimated annual quantity
 
-[Open an Engineering Request](https://github.com/SigGearDrive/SigGear-cad-models/issues/new/choose)
+[Start a Private Engineering Review](https://siggeardrive.github.io/SigGear-product-docs/request-cad-sample-quote/?start=drawing_cad){ }
+
+**Do not upload confidential customer drawings, STEP models, product files or NDA material to a public GitHub Issue.**
+
+For a public repository problem such as a broken link, missing released file or incorrect public metadata, use a GitHub Issue. For customer-specific engineering, samples, interfaces or production projects, use the private engineering review form or email.
 
 ## Related Engineering Resources
 
